@@ -1,0 +1,8 @@
+{
+	"name": "movieman",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, claudiug",
+	"authors": ["claudiug"],
+	"dependencies": {
+	}
+}
