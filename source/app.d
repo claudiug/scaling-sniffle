@@ -1,6 +1,6 @@
 import std.stdio;
-
+import greeting;
 void main()
 {
-	writeln("Edit source/app.d to start your project.");
+	hello();
 }
